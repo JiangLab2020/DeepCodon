@@ -44,7 +44,7 @@ We also offer web services here: https://deepcodon.biodesign.ac.cn
 ```bash
 git clone https://github.com/JiangLab2020/DeepCodon.git
 cd DeepCodon
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 # Usage
 ## Data Collection
